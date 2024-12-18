@@ -75,9 +75,10 @@ I thrive on merging creativity with technical skills to design innovative soluti
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=OnzyBoy&theme=tokyonight&hide_border=true&ring=00e6fe&fire=00e6fe&currStreakLabel=00e6fe" alt="GitHub Streak Stats" />
   
-<img src="https://github-readme-stats.vercel.app/api?username=OnzyBoy&show_icons=true&theme=tokyonight&hide_border=true&title_color=00e6fe&icon_color=00e6fe&text_color=FFFFFF" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnzyBoy&layout=compact&theme=tokyonight&hide_border=true&title_color=00e6fe&text_color=FFFFFF" alt="Top Languages" />
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=OnzyBoy&show_icons=true&theme=tokyonight&hide_border=true&title_color=00e6fe&icon_color=00e6fe&text_color=FFFFFF" alt="GitHub Stats" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnzyBoy&layout=compact&theme=tokyonight&hide_border=true&title_color=00e6fe&text_color=FFFFFF" alt="Top Languages" width="45%" />
+</div>
 
 ### 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=OnzyBoy&theme=tokyonight&no-frame=true&row=1&column=7&title_color=00e6fe)](https://github.com/ryo-ma/github-profile-trophy)
@@ -92,10 +93,24 @@ I thrive on merging creativity with technical skills to design innovative soluti
 <hr style="border: 0.5px solid #ddd">
 
 ### ⚡ Fun Projects  
-- **[Galactic Runner](https://github.com/OnzyBoy/Galactic_Runner)**: An exciting space-themed endless runner game built with Unity.
-- **[StarQuest](https://github.com/OnzyBoy/StarQuest)**: A captivating space exploration game with unique mechanics and challenges.
-- **[PlanIt](https://github.com/OnzyBoy/planit)**: A modern task management and planning application with intuitive interface.
-- **[Student Zone](https://github.com/OnzyBoy/student-zone)**: A comprehensive platform designed to enhance student productivity and learning.
+
+<div align="center">
+<a href="https://github.com/OnzyBoy/Galactic_Runner">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=OnzyBoy&repo=Galactic_Runner&theme=tokyonight&hide_border=true&title_color=00e6fe&icon_color=00e6fe&text_color=FFFFFF" />
+</a>
+<a href="https://github.com/OnzyBoy/StarQuest">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=OnzyBoy&repo=StarQuest&theme=tokyonight&hide_border=true&title_color=00e6fe&icon_color=00e6fe&text_color=FFFFFF" />
+</a>
+</div>
+
+<div align="center">
+<a href="https://github.com/OnzyBoy/planit">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=OnzyBoy&repo=planit&theme=tokyonight&hide_border=true&title_color=00e6fe&icon_color=00e6fe&text_color=FFFFFF" />
+</a>
+<a href="https://github.com/OnzyBoy/student-zone">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=OnzyBoy&repo=student-zone&theme=tokyonight&hide_border=true&title_color=00e6fe&icon_color=00e6fe&text_color=FFFFFF" />
+</a>
+</div>
 
 <hr style="border: 0.5px solid #ddd">
 
