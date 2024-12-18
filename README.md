@@ -1,15 +1,27 @@
-# 👋 Hi, I'm Aristo Ayako  
+# <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif" width="35px" /> Hi, I'm Aristo Ayako  
 
 <div align="center">
   
-Aspiring Software Engineer | Data Science Enthusiast | Problem Solver  
-Nairobi, Kenya  
+Aspiring Software Engineer | Data Science Enthusiast | Problem Solver 
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/OnzyBoy)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/aristo-ayako)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ayakoaristo9@gmail.com)
 
 </div>
+
+<style>
+@keyframes wave {
+  0% { transform: rotate(0deg); }
+  10% { transform: rotate(14deg); }
+  20% { transform: rotate(-8deg); }
+  30% { transform: rotate(14deg); }
+  40% { transform: rotate(-4deg); }
+  50% { transform: rotate(10deg); }
+  60% { transform: rotate(0deg); }
+  100% { transform: rotate(0deg); }
+}
+</style>
 
 <hr style="border: 0.5px solid #ddd">
 
