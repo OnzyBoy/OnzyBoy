@@ -1,4 +1,4 @@
-# <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif" width="35px" /> Hi, I'm Aristo Ayako  
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" /> Hi, I'm Aristo Ayako  
 
 <div align="center">
   
@@ -9,19 +9,6 @@ Aspiring Software Engineer | Data Science Enthusiast | Problem Solver
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ayakoaristo9@gmail.com)
 
 </div>
-
-<style>
-@keyframes wave {
-  0% { transform: rotate(0deg); }
-  10% { transform: rotate(14deg); }
-  20% { transform: rotate(-8deg); }
-  30% { transform: rotate(14deg); }
-  40% { transform: rotate(-4deg); }
-  50% { transform: rotate(10deg); }
-  60% { transform: rotate(0deg); }
-  100% { transform: rotate(0deg); }
-}
-</style>
 
 <hr style="border: 0.5px solid #ddd">
 
