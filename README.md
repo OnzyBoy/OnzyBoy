@@ -105,7 +105,7 @@ I thrive on merging creativity with technical skills to design innovative soluti
 
 <div align="center">
 <a href="https://github.com/OnzyBoy/planit">
-  <img src="https://via.placeholder.com/300" width="300" height="300" alt="PlanIt" />
+  <img src="./assets/PLAN.png" width="300" height="300" alt="PlanIt" />
 </a>
 <a href="https://github.com/OnzyBoy/student-zone">
   <img src="./assets/student zone.png" width="300" height="300" alt="Student Zone" />
