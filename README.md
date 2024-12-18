@@ -1,31 +1,49 @@
 # 
-<div align="center">
+<div align="center" style="background: rgba(0, 0, 0, 0.5); padding: 20px; border-radius: 10px; position: relative; overflow: hidden;">
   
+<!-- Animated background -->
+<div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: -1;">
+  <svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="100%" preserveAspectRatio="none">
+    <defs>
+      <radialGradient id="gradient" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+        <animate attributeName="fx" dur="34s" values="0%;100%;0%" repeatCount="indefinite"/>
+        <animate attributeName="fy" dur="23s" values="0%;100%;0%" repeatCount="indefinite"/>
+        <stop offset="0%" style="stop-color: rgba(255,255,255,0.1)"/>
+        <stop offset="100%" style="stop-color: rgba(255,255,255,0)"/>
+      </radialGradient>
+    </defs>
+    <rect x="0" y="0" width="100%" height="100%" fill="url(#gradient)">
+      <animate attributeName="opacity" dur="5s" values="0.3;0.7;0.3" repeatCount="indefinite"/>
+    </rect>
+  </svg>
+</div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=40&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=500&height=70&lines=Aristo+Ayako)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=40&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=70&lines=Aristo;Aristo+Ayako;Software+Engineer;Data+Scientist)](https://git.io/typing-svg)
 
 </div>
 
 <div align="center">
   
-Aspiring Software Engineer | Data Science Enthusiast | Problem Solver 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> Aspiring Software Engineer | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> Data Science Enthusiast | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Light Bulb" width="25" height="25" /> Problem Solver 
 
-<a href="https://github.com/OnzyBoy">
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" height="40" style="margin-right:10px;">
-</a>
-<a href="https://www.linkedin.com/in/aristo-ayako">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="LinkedIn" width="40" height="40" style="margin-right:10px;">
-</a>
-<a href="mailto:ayakoaristo9@gmail.com">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" alt="Email" width="40" height="40" style="margin-right:10px;">
-</a>
+<div style="margin: 20px 0;">
+  <a href="https://github.com/OnzyBoy" style="text-decoration: none; margin: 0 20px;">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" alt="GitHub" width="40" height="40">
+  </a>
+  <a href="https://www.linkedin.com/in/aristo-ayako" style="text-decoration: none; margin: 0 20px;">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" alt="LinkedIn" width="40" height="40">
+  </a>
+  <a href="mailto:ayakoaristo9@gmail.com" style="text-decoration: none; margin: 0 20px;">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" alt="Email" width="40" height="40">
+  </a>
+</div>
 
 </div>
 
 <hr style="border: 0.5px solid #ddd">
 
-### 🌟✨ About Me  
-<img src="https://media.giphy.com/media/wave/200w.gif" alt="Waving Hand" width="24" height="24"> A dedicated Computer Science student with a strong foundation in problem-solving and a passion for Software Development and Data Science.  
+### ✨ About Me  
+A dedicated Computer Science student with a strong foundation in problem-solving and a passion for Software Development and Data Science.  
 I thrive on merging creativity with technical skills to design innovative solutions in fast-evolving environments.  
 
 🔭 **Currently exploring:**  
@@ -36,7 +54,7 @@ I thrive on merging creativity with technical skills to design innovative soluti
 
 <hr style="border: 0.5px solid #ddd">
 
-### 💻🔧 Technical Skills  
+### 🔧 Technical Skills  
 
 <div align="center">
 
@@ -66,7 +84,7 @@ I thrive on merging creativity with technical skills to design innovative soluti
 
 <hr style="border: 0.5px solid #ddd">
 
-### 🎓📚 Education  
+### 🎓 Education  
 <img src="https://media.giphy.com/media/graduation/200w.gif" alt="Graduation Cap" width="24" height="24"> #### **Bachelor of Science in Computer Science**  
 *Catholic University of Eastern Africa (2021 – 2025)*  
 
@@ -75,7 +93,7 @@ I thrive on merging creativity with technical skills to design innovative soluti
 
 <hr style="border: 0.5px solid #ddd">
 
-### 💼🛠️ Experience  
+### 💼 Experience  
 
 #### **Graphic Designer**  
 *Erudite Digital | July 2024 – Present*  
@@ -88,7 +106,7 @@ I thrive on merging creativity with technical skills to design innovative soluti
 
 <hr style="border: 0.5px solid #ddd">
 
-### 📊📈 GitHub Stats  
+### 📊 GitHub Stats  
 
 <div align="center">
   
@@ -99,13 +117,13 @@ I thrive on merging creativity with technical skills to design innovative soluti
 
 <hr style="border: 0.5px solid #ddd">
 
-### ⚡🔧 Fun Projects  
+### ⚡ Fun Projects  
 - **[Boostica Website Redesign](https://github.com/OnzyBoy/boostica-website)**: A sleek website for branding and digital marketing.  
 - **[Momentum Task Manager](https://github.com/OnzyBoy/momentum-app)**: A productivity app built with React Native and Firebase.  
 
 <hr style="border: 0.5px solid #ddd">
 
-### ✨🤝 Let's Connect!  
+### 🤝 Let's Connect!  
 <div align="center">
   
 Feel free to reach out for collaborations or just to say hi! 😄  
