@@ -114,23 +114,17 @@ I thrive on merging creativity with technical skills to design innovative soluti
 
 <hr style="border: 0.5px solid #ddd">
 
-### 🤝 Let's Connect!  
+### ✨ Let's Connect!  
 <div align="center">
   
 Feel free to reach out for collaborations or just to say hi! 😄  
 
-<a href="https://github.com/OnzyBoy">
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="50" height="50" style="margin-right:10px;">
-</a>
-<a href="https://www.linkedin.com/in/aristo-ayako">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="LinkedIn" width="50" height="50" style="margin-right:10px;">
-</a>
-<a href="mailto:ayakoaristo9@gmail.com">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" alt="Email" width="50" height="50" style="margin-right:10px;">
-</a>
-
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OnzyBoy/OnzyBoy/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OnzyBoy/OnzyBoy/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/OnzyBoy/OnzyBoy/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
