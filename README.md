@@ -77,7 +77,7 @@ I thrive on merging creativity with technical skills to design innovative soluti
   
 <img src="https://github-readme-stats.vercel.app/api?username=OnzyBoy&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
 
-[![Aristo's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=OnzyBoy&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Aristo's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@OnzyBoy&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=OnzyBoy&theme=radical&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
