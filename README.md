@@ -73,27 +73,17 @@ I thrive on merging creativity with technical skills to design innovative soluti
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=OnzyBoy&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=OnzyBoy&theme=tokyonight&hide_border=true&ring=00e6fe&fire=00e6fe&currStreakLabel=00e6fe" alt="GitHub Streak Stats" />
   
-<img src="https://github-readme-stats.vercel.app/api?username=OnzyBoy&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=OnzyBoy&show_icons=true&theme=tokyonight&hide_border=true&title_color=00e6fe&icon_color=00e6fe&text_color=FFFFFF" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnzyBoy&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnzyBoy&layout=compact&theme=tokyonight&hide_border=true&title_color=00e6fe&text_color=FFFFFF" alt="Top Languages" />
 
 ### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=OnzyBoy&theme=radical&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=OnzyBoy&theme=tokyonight&no-frame=true&row=1&column=7&title_color=00e6fe)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 📈 Contribution Graph
 [![Aristo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=OnzyBoy&theme=redical&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-### 📊 Weekly Development Breakdown
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<details>
-<summary>📈 Detailed Stats</summary>
-<br>
-
-![Metrics](https://metrics.lecoq.io/OnzyBoy?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&achievements=1&notable=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&config.timezone=Africa%2FNairobi)
 
 </details>
 
@@ -102,8 +92,10 @@ I thrive on merging creativity with technical skills to design innovative soluti
 <hr style="border: 0.5px solid #ddd">
 
 ### ⚡ Fun Projects  
-- **[Boostica Website Redesign](https://github.com/OnzyBoy/boostica-website)**: A sleek website for branding and digital marketing.  
-- **[Momentum Task Manager](https://github.com/OnzyBoy/momentum-app)**: A productivity app built with React Native and Firebase.  
+- **[Galactic Runner](https://github.com/OnzyBoy/Galactic_Runner)**: An exciting space-themed endless runner game built with Unity.
+- **[StarQuest](https://github.com/OnzyBoy/StarQuest)**: A captivating space exploration game with unique mechanics and challenges.
+- **[PlanIt](https://github.com/OnzyBoy/planit)**: A modern task management and planning application with intuitive interface.
+- **[Student Zone](https://github.com/OnzyBoy/student-zone)**: A comprehensive platform designed to enhance student productivity and learning.
 
 <hr style="border: 0.5px solid #ddd">
 
