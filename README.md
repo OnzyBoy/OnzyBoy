@@ -97,19 +97,19 @@ I thrive on merging creativity with technical skills to design innovative soluti
 <div align="center" style="display: flex; flex-direction: column; gap: 40px;">
   <div style="display: flex; gap: 40px; justify-content: center;">
     <a href="https://github.com/OnzyBoy/Galactic_Runner">
-      <img src="./assets/galactic_runner.png" width="300" height="300" alt="Galactic Runner" style="margin: 0 20px;"/>
+      <img src="./assets/Galactic Runner.png" width="300" height="300" alt="Galactic Runner" style="margin: 0 20px;"/>
     </a>
     <a href="https://github.com/OnzyBoy/StarQuest">
-      <img src="./assets/starquest.png" width="300" height="300" alt="StarQuest" style="margin: 0 20px;"/>
+      <img src="./assets/Star quest.png" width="300" height="300" alt="StarQuest" style="margin: 0 20px;"/>
     </a>
   </div>
 
   <div style="display: flex; gap: 40px; justify-content: center; margin-top: 40px;">
     <a href="https://github.com/OnzyBoy/planit">
-      <img src="https://via.placeholder.com/300" width="300" height="300" alt="PlanIt" style="margin: 0 20px;"/>
+      <img src="./assets/PLAN.png" width="300" height="300" alt="PlanIt" style="margin: 0 20px;"/>
     </a>
     <a href="https://github.com/OnzyBoy/student-zone">
-      <img src="./assets/student_zone.png" width="300" height="300" alt="Student Zone" style="margin: 0 20px;"/>
+      <img src="./assets/student zone.png" width="300" height="300" alt="Student Zone" style="margin: 0 20px;"/>
     </a>
   </div>
 </div>
