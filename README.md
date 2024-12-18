@@ -18,7 +18,7 @@
   </svg>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=40&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=70&lines=Aristo;Aristo+Ayako;Software+Engineer;Data+Scientist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=40&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=70&lines=Aristo+Ayako)](https://git.io/typing-svg)
 
 </div>
 
@@ -26,14 +26,14 @@
   
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> Aspiring Software Engineer | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> Data Science Enthusiast | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Light Bulb" width="25" height="25" /> Problem Solver 
 
-<div style="margin: 20px 0;">
-  <a href="https://github.com/OnzyBoy" style="text-decoration: none; margin: 0 20px;">
+<div style="margin: 30px 0;">
+  <a href="https://github.com/OnzyBoy" style="text-decoration: none; margin: 0 35px;">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" alt="GitHub" width="40" height="40">
   </a>
-  <a href="https://www.linkedin.com/in/aristo-ayako" style="text-decoration: none; margin: 0 20px;">
+  <a href="https://www.linkedin.com/in/aristo-ayako" style="text-decoration: none; margin: 0 35px;">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" alt="LinkedIn" width="40" height="40">
   </a>
-  <a href="mailto:ayakoaristo9@gmail.com" style="text-decoration: none; margin: 0 20px;">
+  <a href="mailto:ayakoaristo9@gmail.com" style="text-decoration: none; margin: 0 35px;">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" alt="Email" width="40" height="40">
   </a>
 </div>
