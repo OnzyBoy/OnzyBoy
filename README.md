@@ -6,7 +6,7 @@
 
 </div>
 
-<div align="left">
+<div align="center">
   
 Aspiring Software Engineer | Data Science Enthusiast | Problem Solver 
 
@@ -24,8 +24,8 @@ Aspiring Software Engineer | Data Science Enthusiast | Problem Solver
 
 <hr style="border: 0.5px solid #ddd">
 
-### 🌟 About Me  
-A dedicated Computer Science student with a strong foundation in problem-solving and a passion for Software Development and Data Science.  
+### 🌟✨ About Me  
+<img src="https://media.giphy.com/media/wave/200w.gif" alt="Waving Hand" width="24" height="24"> A dedicated Computer Science student with a strong foundation in problem-solving and a passion for Software Development and Data Science.  
 I thrive on merging creativity with technical skills to design innovative solutions in fast-evolving environments.  
 
 🔭 **Currently exploring:**  
@@ -36,7 +36,7 @@ I thrive on merging creativity with technical skills to design innovative soluti
 
 <hr style="border: 0.5px solid #ddd">
 
-### 💻 Technical Skills  
+### 💻🔧 Technical Skills  
 
 <div align="center">
 
@@ -66,8 +66,8 @@ I thrive on merging creativity with technical skills to design innovative soluti
 
 <hr style="border: 0.5px solid #ddd">
 
-### 🎓 Education  
-#### **Bachelor of Science in Computer Science**  
+### 🎓📚 Education  
+<img src="https://media.giphy.com/media/graduation/200w.gif" alt="Graduation Cap" width="24" height="24"> #### **Bachelor of Science in Computer Science**  
 *Catholic University of Eastern Africa (2021 – 2025)*  
 
 #### **Kenya Certificate of Secondary Education**  
@@ -75,7 +75,7 @@ I thrive on merging creativity with technical skills to design innovative soluti
 
 <hr style="border: 0.5px solid #ddd">
 
-### 💼 Experience  
+### 💼🛠️ Experience  
 
 #### **Graphic Designer**  
 *Erudite Digital | July 2024 – Present*  
@@ -88,7 +88,7 @@ I thrive on merging creativity with technical skills to design innovative soluti
 
 <hr style="border: 0.5px solid #ddd">
 
-### 📊 GitHub Stats  
+### 📊📈 GitHub Stats  
 
 <div align="center">
   
@@ -99,13 +99,13 @@ I thrive on merging creativity with technical skills to design innovative soluti
 
 <hr style="border: 0.5px solid #ddd">
 
-### ⚡ Fun Projects  
+### ⚡🔧 Fun Projects  
 - **[Boostica Website Redesign](https://github.com/OnzyBoy/boostica-website)**: A sleek website for branding and digital marketing.  
 - **[Momentum Task Manager](https://github.com/OnzyBoy/momentum-app)**: A productivity app built with React Native and Firebase.  
 
 <hr style="border: 0.5px solid #ddd">
 
-### ✨ Let's Connect!  
+### ✨🤝 Let's Connect!  
 <div align="center">
   
 Feel free to reach out for collaborations or just to say hi! 😄  
