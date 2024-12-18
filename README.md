@@ -122,5 +122,5 @@ Feel free to reach out for collaborations or just to say hi! 😄
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/OnzyBoy/OnzyBoy/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </div>
