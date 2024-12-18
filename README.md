@@ -1,17 +1,24 @@
-# <div align="center">
+# 
+<div align="center">
   
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=40&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=500&height=70&lines=Aristo+Ayako)](https://git.io/typing-svg)
 
 </div>
 
-<div align="center">
+<div align="left">
   
 Aspiring Software Engineer | Data Science Enthusiast | Problem Solver 
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/OnzyBoy)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/aristo-ayako)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ayakoaristo9@gmail.com)
+<a href="https://github.com/OnzyBoy">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" height="40" style="margin-right:10px;">
+</a>
+<a href="https://www.linkedin.com/in/aristo-ayako">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="LinkedIn" width="40" height="40" style="margin-right:10px;">
+</a>
+<a href="mailto:ayakoaristo9@gmail.com">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" alt="Email" width="40" height="40" style="margin-right:10px;">
+</a>
 
 </div>
 
@@ -103,6 +110,18 @@ I thrive on merging creativity with technical skills to design innovative soluti
   
 Feel free to reach out for collaborations or just to say hi! 😄  
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+<a href="https://github.com/OnzyBoy">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="50" height="50" style="margin-right:10px;">
+</a>
+<a href="https://www.linkedin.com/in/aristo-ayako">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="LinkedIn" width="50" height="50" style="margin-right:10px;">
+</a>
+<a href="mailto:ayakoaristo9@gmail.com">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" alt="Email" width="50" height="50" style="margin-right:10px;">
+</a>
 
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
