@@ -69,34 +69,21 @@ I thrive on merging creativity with technical skills to design innovative soluti
 
 <hr style="border: 0.5px solid #ddd">
 
-### 🎓 Education  
-<img src="https://media.giphy.com/media/graduation/200w.gif" alt="Graduation Cap" width="24" height="24"> #### **Bachelor of Science in Computer Science**  
-*Catholic University of Eastern Africa (2021 – 2025)*  
-
-#### **Kenya Certificate of Secondary Education**  
-*Light Academy Boys (2017 – 2020)*  
-
-<hr style="border: 0.5px solid #ddd">
-
-### 💼 Experience  
-
-#### **Graphic Designer**  
-*Erudite Digital | July 2024 – Present*  
-- Designed eye-catching business cards and improved website UX to elevate the brand's visual identity.  
-
-#### **Graphic Design & Web Development Intern**  
-*Boostica Limited | May 2024 – August 2024*  
-- Led branding efforts, built websites using WordPress, and created engaging video content for campaigns.  
-- Managed technical tasks like QR code generation and data handling with Firebase.  
-
-<hr style="border: 0.5px solid #ddd">
-
 ### 📊 GitHub Stats  
 
 <div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=OnzyBoy&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
   
-![Aristo's GitHub stats](https://github-readme-stats.vercel.app/api?username=OnzyBoy&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OnzyBoy&layout=compact&theme=radical)  
+<img src="https://github-readme-stats.vercel.app/api?username=OnzyBoy&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+
+[![Aristo's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=OnzyBoy&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+### 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=OnzyBoy&theme=radical&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+### 📈 Contribution Graph
+[![Aristo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=OnzyBoy&theme=redical&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
