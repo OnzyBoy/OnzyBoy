@@ -73,7 +73,7 @@ I thrive on merging creativity with technical skills to design innovative soluti
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=OnzyBoy&theme=tokyonight&hide_border=true&ring=00e6fe&fire=00e6fe&currStreakLabel=00e6fe" alt="GitHub Streak Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=OnzyBoy&theme=tokyonight&hide_border=true&ring=00e6fe&fire=00e6fe&currStreakLabel=00e6fe" />
   
 <div style="display: flex; justify-content: center; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=OnzyBoy&show_icons=true&theme=tokyonight&hide_border=true&title_color=00e6fe&icon_color=00e6fe&text_color=FFFFFF" alt="GitHub Stats" width="45%" />
@@ -96,19 +96,19 @@ I thrive on merging creativity with technical skills to design innovative soluti
 
 <div align="center">
 <a href="https://github.com/OnzyBoy/Galactic_Runner">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=OnzyBoy&repo=Galactic_Runner&theme=tokyonight&hide_border=true&title_color=00e6fe&icon_color=00e6fe&text_color=FFFFFF" />
+  <img src="C:\Users\arist\Downloads\Galactic Runner.png" width="300" height="300" alt="Galactic Runner" />
 </a>
 <a href="https://github.com/OnzyBoy/StarQuest">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=OnzyBoy&repo=StarQuest&theme=tokyonight&hide_border=true&title_color=00e6fe&icon_color=00e6fe&text_color=FFFFFF" />
+  <img src="C:\Users\arist\Downloads\Star quest.png" width="300" height="300" alt="StarQuest" />
 </a>
 </div>
 
 <div align="center">
 <a href="https://github.com/OnzyBoy/planit">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=OnzyBoy&repo=planit&theme=tokyonight&hide_border=true&title_color=00e6fe&icon_color=00e6fe&text_color=FFFFFF" />
+  <img src="https://via.placeholder.com/300" width="300" height="300" alt="PlanIt" />
 </a>
 <a href="https://github.com/OnzyBoy/student-zone">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=OnzyBoy&repo=student-zone&theme=tokyonight&hide_border=true&title_color=00e6fe&icon_color=00e6fe&text_color=FFFFFF" />
+  <img src="C:\Users\arist\Downloads\student zone.png" width="300" height="300" alt="Student Zone" />
 </a>
 </div>
 
