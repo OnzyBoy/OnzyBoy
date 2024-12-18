@@ -1,22 +1,5 @@
 # 
-<div align="center" style="background: rgba(0, 0, 0, 0.5); padding: 20px; border-radius: 10px; position: relative; overflow: hidden;">
-  
-<!-- Animated background -->
-<div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: -1;">
-  <svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="100%" preserveAspectRatio="none">
-    <defs>
-      <radialGradient id="gradient" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
-        <animate attributeName="fx" dur="34s" values="0%;100%;0%" repeatCount="indefinite"/>
-        <animate attributeName="fy" dur="23s" values="0%;100%;0%" repeatCount="indefinite"/>
-        <stop offset="0%" style="stop-color: rgba(255,255,255,0.1)"/>
-        <stop offset="100%" style="stop-color: rgba(255,255,255,0)"/>
-      </radialGradient>
-    </defs>
-    <rect x="0" y="0" width="100%" height="100%" fill="url(#gradient)">
-      <animate attributeName="opacity" dur="5s" values="0.3;0.7;0.3" repeatCount="indefinite"/>
-    </rect>
-  </svg>
-</div>
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=40&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=70&lines=Aristo+Ayako)](https://git.io/typing-svg)
 
@@ -24,7 +7,7 @@
 
 <div align="center">
   
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> Aspiring Software Engineer | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> Data Science Enthusiast | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Light Bulb" width="25" height="25" /> Problem Solver 
+Aspiring Software Engineer |  Data Science Enthusiast |  Problem Solver 
 
 <div style="margin: 30px 0;">
   <a href="https://github.com/OnzyBoy" style="text-decoration: none; margin: 0 35px;">
