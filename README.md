@@ -1,4 +1,10 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" /> Hi, I'm Aristo Ayako  
+# <div align="center">
+  
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=BD2C00&center=true&vCenter=true&repeat=false&width=435&lines=Aristo+Ayako)](https://git.io/typing-svg)
+
+</div>
 
 <div align="center">
   
