@@ -96,10 +96,10 @@ I thrive on merging creativity with technical skills to design innovative soluti
 
 <div align="center">
 <a href="https://github.com/OnzyBoy/Galactic_Runner">
-  <img src="C:\Users\arist\Downloads\Galactic Runner.png" width="300" height="300" alt="Galactic Runner" />
+  <img src="./assets/Galactic Runner.png" width="300" height="300" alt="Galactic Runner" />
 </a>
 <a href="https://github.com/OnzyBoy/StarQuest">
-  <img src="C:\Users\arist\Downloads\Star quest.png" width="300" height="300" alt="StarQuest" />
+  <img src="./assets/Star quest.png" width="300" height="300" alt="StarQuest" />
 </a>
 </div>
 
@@ -108,7 +108,7 @@ I thrive on merging creativity with technical skills to design innovative soluti
   <img src="https://via.placeholder.com/300" width="300" height="300" alt="PlanIt" />
 </a>
 <a href="https://github.com/OnzyBoy/student-zone">
-  <img src="C:\Users\arist\Downloads\student zone.png" width="300" height="300" alt="Student Zone" />
+  <img src="./assets/student zone.png" width="300" height="300" alt="Student Zone" />
 </a>
 </div>
 
