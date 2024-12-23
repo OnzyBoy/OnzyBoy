@@ -73,14 +73,14 @@ I thrive on merging creativity with technical skills to design innovative soluti
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=OnzyBoy&theme=tokyonight&hide_border=true&ring=00e6fe&fire=00e6fe&currStreakLabel=00e6fe" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=OnzyBoy&theme=tokyonight&hide_border=true&ring=00e6fe&fire=00e6fe&currStreakLabel=00e6fe" width="98%" />
   
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=OnzyBoy&show_icons=true&theme=tokyonight&hide_border=true&title_color=00e6fe&icon_color=00e6fe&text_color=FFFFFF" alt="GitHub Stats" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnzyBoy&layout=compact&theme=tokyonight&hide_border=true&title_color=00e6fe&text_color=FFFFFF" alt="Top Languages" width="45%" />
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin: 20px 0;">
+  <img src="https://github-readme-stats.vercel.app/api?username=OnzyBoy&show_icons=true&theme=tokyonight&hide_border=true&title_color=00e6fe&icon_color=00e6fe&text_color=FFFFFF" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnzyBoy&layout=compact&theme=tokyonight&hide_border=true&title_color=00e6fe&text_color=FFFFFF" alt="Top Languages" width="49%" />
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=OnzyBoy&theme=tokyonight&hide_border=true&title_color=00e6fe&text_color=FFFFFF" alt="WakaTime Stats" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=OnzyBoy&theme=tokyonight&hide_border=true&title_color=00e6fe&text_color=FFFFFF" alt="WakaTime Stats" width="98%" />
 
 ### 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=OnzyBoy&theme=tokyonight&no-frame=true&row=1&column=7&title_color=00e6fe)](https://github.com/ryo-ma/github-profile-trophy)
