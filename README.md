@@ -80,6 +80,8 @@ I thrive on merging creativity with technical skills to design innovative soluti
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnzyBoy&layout=compact&theme=tokyonight&hide_border=true&title_color=00e6fe&text_color=FFFFFF" alt="Top Languages" width="45%" />
 </div>
 
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=OnzyBoy&theme=tokyonight&hide_border=true&title_color=00e6fe&text_color=FFFFFF" alt="WakaTime Stats" />
+
 ### 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=OnzyBoy&theme=tokyonight&no-frame=true&row=1&column=7&title_color=00e6fe)](https://github.com/ryo-ma/github-profile-trophy)
 
