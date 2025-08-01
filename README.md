@@ -7,15 +7,15 @@
 
 <div align="center">
   
-Aspiring Software Engineer |  Data Science Enthusiast |  Problem Solver 
+Data Analyst | Software Developer
 
 <div style="margin: 30px 0;">
   <a href="https://github.com/OnzyBoy" style="text-decoration: none; margin: 0 35px;">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" alt="GitHub" width="40" height="40">
-  </a>
+  </a> &nbsp;
   <a href="https://www.linkedin.com/in/aristo-ayako" style="text-decoration: none; margin: 0 35px;">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" alt="LinkedIn" width="40" height="40">
-  </a>
+  </a> &nbsp;
   <a href="mailto:ayakoaristo9@gmail.com" style="text-decoration: none; margin: 0 35px;">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" alt="Email" width="40" height="40">
   </a>
@@ -26,14 +26,11 @@ Aspiring Software Engineer |  Data Science Enthusiast |  Problem Solver
 <hr style="border: 0.5px solid #ddd">
 
 ### ✨ About Me  
-A dedicated Computer Science student with a strong foundation in problem-solving and a passion for Software Development and Data Science.  
-I thrive on merging creativity with technical skills to design innovative solutions in fast-evolving environments.  
+A dedicated Computer Science student with a strong foundation in problem-solving, passionate about **software development**, **storytelling with data**, **data analytics**, and the evolving field of **artificial intelligence**.  
+I thrive on merging creativity with technical expertise to design impactful solutions in fast-evolving environments.
 
-🔭 **Currently exploring:**  
-- Advancing skills in **Software Engineering**.  
-- Uncovering the potential of **Data Science** for impactful solutions.  
-
-💡 **Fun Fact:** I enjoy blending technical expertise with creative design to solve real-world challenges!  
+🔭 **Currently Exploring:**  
+- Exploring **Data Analytics**
 
 <hr style="border: 0.5px solid #ddd">
 
@@ -43,29 +40,29 @@ I thrive on merging creativity with technical skills to design innovative soluti
 
 #### **Programming Languages**  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,cs,html,css" />
+  <img src="https://skillicons.dev/icons?i=py,r,js,ts,cs" />
+  <img src="./assets/sql.svg" alt="SQL" width="48" height="48" />
 </p>
 
 #### **Frameworks & Tools**  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,firebase,mysql" />
-  <img src="https://skillicons.dev/icons?i=ai,figma" />
+  <img src="./assets/excel.svg" alt="Excel" width="48" height="48" />
+  <img src="./assets/powerbi.png" alt="Power BI" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,mysql,firebase" />
 </p>
 
 </div>
 
-<details>
-<summary>🎯 Soft Skills</summary>
-<br>
-  
-- 📊 Project Management
-- 👥 Team Collaboration
-- 🔍 Problem-Solving
-- 🧠 Analytical Thinking
-- 📈 Strategic Planning
-- 🗣️ Effective Communication
-  
-</details>
+#### **Soft Skills**  
+<p align="center">
+  📊 Project Management &nbsp;|&nbsp;
+  👥 Team Collaboration &nbsp;|&nbsp;
+  🔍 Problem-Solving &nbsp;|&nbsp;
+  🧠 Analytical Thinking &nbsp;|&nbsp;
+  📈 Strategic Planning &nbsp;|&nbsp;
+  🗣️ Effective Communication &nbsp;|&nbsp;
+  📖 Data Storytelling
+</p>  
 
 <hr style="border: 0.5px solid #ddd">
 
@@ -88,35 +85,8 @@ I thrive on merging creativity with technical skills to design innovative soluti
 ### 📈 Contribution Graph
 [![Aristo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=OnzyBoy&theme=redical&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-</details>
-
 </div>
 
-<hr style="border: 0.5px solid #ddd">
-
-### ⚡ Fun Projects  
-
-<div align="center" style="display: flex; flex-direction: column; gap: 40px;">
-  <div style="display: flex; gap: 40px; justify-content: center;">
-    <a href="https://github.com/OnzyBoy/Galactic_Runner">
-      <img src="./assets/Galactic Runner.png" width="300" height="300" alt="Galactic Runner" style="margin: 0 20px;"/>
-    </a>
-    <a href="https://github.com/OnzyBoy/StarQuest">
-      <img src="./assets/Star quest.png" width="300" height="300" alt="StarQuest" style="margin: 0 20px;"/>
-    </a>
-  </div>
-
-  <div style="display: flex; gap: 40px; justify-content: center; margin-top: 40px;">
-    <a href="https://github.com/OnzyBoy/planit">
-      <img src="./assets/PLAN.png" width="300" height="300" alt="PlanIt" style="margin: 0 20px;"/>
-    </a>
-    <a href="https://github.com/OnzyBoy/student-zone">
-      <img src="./assets/student zone.png" width="300" height="300" alt="Student Zone" style="margin: 0 20px;"/>
-    </a>
-  </div>
-</div>
-
-<br><br>
 <hr style="border: 0.5px solid #ddd">
 
 ### ✨ Let's Connect!  
