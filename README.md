@@ -1,7 +1,7 @@
 # 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=40&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=70&lines=Aristo+Ayako)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=NeueMachina-Ultrabold&weight=700&size=40&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=70&lines=Aristo+Ayako)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,6 +10,9 @@
 Data Analyst | Software Developer
 
 <div style="margin: 30px 0;">
+  <a href="https://aristo-portfolio-vert.vercel.app/" style="text-decoration: none; margin: 0 35px;">
+    <img src="./assets/AA-logo.png" alt="Portfolio" width="40" height="40">
+  </a> &nbsp;
   <a href="https://github.com/OnzyBoy" style="text-decoration: none; margin: 0 35px;">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" alt="GitHub" width="40" height="40">
   </a> &nbsp;
@@ -18,8 +21,9 @@ Data Analyst | Software Developer
   </a> &nbsp;
   <a href="mailto:ayakoaristo9@gmail.com" style="text-decoration: none; margin: 0 35px;">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" alt="Email" width="40" height="40">
-  </a>
+  </a> &nbsp;
 </div>
+
 
 </div>
 
