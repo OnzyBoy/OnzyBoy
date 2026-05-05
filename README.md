@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=NeueMachina-Ultrabold&weight=700&size=40&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=70&lines=Aristo+Ayako)](https://git.io/typing-svg)
 
-**Data Analyst | Software Developer**
+**Data Analyst | Data Scientist | Software Developer**
 
 <div style="margin: 20px 0;">
   <a href="https://aristo-portfolio-vert.vercel.app/">
@@ -21,10 +21,10 @@
 ---
 
 ### 🚀 About Me
-A dedicated Data Analyst and Software Developer with a background in Computer Science. I specialize in transforming complex datasets into actionable insights and building robust, user-centric applications. I thrive at the intersection of technical logic and creative problem-solving.
+Bachelor of Science in Computer Science graduate with hands-on experience in data analytics using Python, R, Excel, Power BI, Tableau, and SQL to clean, analyze, and visualize data. Skilled in applying statistical techniques such as **T-tests** and **ANOVA** to support data-informed decision-making.
 
-* 🔭 **Current Focus:** Deepening expertise in **Predictive Analytics** and **Machine Learning**.
-* ⚡ **Fact:** I am passionate about system optimization, from fine-tuning Linux environments to hardware performance.
+* 🔭 **Current Focus:** Deepening expertise in Predictive Analytics and Machine Learning.
+* ⚡ **Fact:** Passionate about system optimization and hardware performance.
 
 ---
 
@@ -33,7 +33,7 @@ A dedicated Data Analyst and Software Developer with a background in Computer Sc
 #### **Languages & Databases**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,r,js,ts,cs,mysql,postgresql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=py,r,js,ts,cs,mysql,postgresql" />
   </a>
 </p>
 
