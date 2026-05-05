@@ -1,74 +1,66 @@
-# 
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=NeueMachina-Ultrabold&weight=700&size=40&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=70&lines=Aristo+Ayako)](https://git.io/typing-svg)
 
+**Data Analyst | Software Developer**
+
+<div style="margin: 20px 0;">
+  <a href="https://aristo-portfolio-vert.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://www.linkedin.com/in/aristo-ayako">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:ayakoaristo9@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </div>
-
-<div align="center">
-  
-Data Analyst | Software Developer
-
-<div style="margin: 30px 0;">
-  <a href="https://aristo-portfolio-vert.vercel.app/" style="text-decoration: none; margin: 0 35px;">
-    <img src="./assets/AA-logo.png" alt="Portfolio" width="40" height="40">
-  </a> &nbsp;
-  <a href="https://github.com/OnzyBoy" style="text-decoration: none; margin: 0 35px;">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" alt="GitHub" width="40" height="40">
-  </a> &nbsp;
-  <a href="https://www.linkedin.com/in/aristo-ayako" style="text-decoration: none; margin: 0 35px;">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" alt="LinkedIn" width="40" height="40">
-  </a> &nbsp;
-  <a href="mailto:ayakoaristo9@gmail.com" style="text-decoration: none; margin: 0 35px;">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" alt="Email" width="40" height="40">
-  </a> &nbsp;
-</div>
-
 
 </div>
 
-<hr style="border: 0.5px solid #ddd">
+---
 
-### ✨ About Me  
-A dedicated Computer Science student with a strong foundation in problem-solving, passionate about **software development**, **storytelling with data**, **data analytics**, and the evolving field of **artificial intelligence**.  
-I thrive on merging creativity with technical expertise to design impactful solutions in fast-evolving environments.
+### 🚀 About Me
+A dedicated Data Analyst and Software Developer with a background in Computer Science. I specialize in transforming complex datasets into actionable insights and building robust, user-centric applications. I thrive at the intersection of technical logic and creative problem-solving.
 
-🔭 **Currently Exploring:**  
-- Exploring **Data Analytics**
+* 🔭 **Current Focus:** Deepening expertise in **Predictive Analytics** and **Machine Learning**.
+* ⚡ **Fact:** I am passionate about system optimization, from fine-tuning Linux environments to hardware performance.
 
-<hr style="border: 0.5px solid #ddd">
+---
 
-### 🔧 Technical Skills  
+### 🔧 Technical Skills
 
-<div align="center">
-
-#### **Programming Languages**  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,r,js,ts,cs" />
-  <img src="./assets/sql.svg" alt="SQL" width="48" height="48" />
+#### **Languages & Databases**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,r,js,ts,cs,mysql,postgresql,mongodb" />
+  </a>
 </p>
 
-#### **Frameworks & Tools**  
-<p align="center">
-  <img src="./assets/excel.svg" alt="Excel" width="48" height="48" />
-  <img src="./assets/powerbi.png" alt="Power BI" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=react,nextjs,mysql,firebase" />
+#### **Data Analysis & Visualization**
+<p align="left">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="PowerBI" height="35">
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" height="35">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau" height="35">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" height="35">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" height="35">
 </p>
 
-</div>
+#### **Frameworks & Tools**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,dotnet,firebase,linux,git,docker" />
+  </a>
+</p>
 
-#### **Soft Skills**  
+---
+
+### 🧠 Soft Skills
 <p align="center">
-  📊 Project Management &nbsp;|&nbsp;
-  👥 Team Collaboration &nbsp;|&nbsp;
-  🔍 Problem-Solving &nbsp;|&nbsp;
-  🧠 Analytical Thinking &nbsp;|&nbsp;
-  📈 Strategic Planning &nbsp;|&nbsp;
-  🗣️ Effective Communication &nbsp;|&nbsp;
-  📖 Data Storytelling
-</p>  
+  <b>Project Management</b> • <b>Data Storytelling</b> • <b>Strategic Planning</b> • <b>Problem-Solving</b> • <b>Team Collaboration</b>
+</p>
 
-<hr style="border: 0.5px solid #ddd">
+---
 
 ### 📊 GitHub Stats  
 
