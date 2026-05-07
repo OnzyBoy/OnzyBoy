@@ -51,6 +51,7 @@ Bachelor of Science in Computer Science graduate with hands-on experience in dat
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,dotnet,firebase,linux,git,docker" />
   </a>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white" alt="Streamlit" height="48">
 </p>
 
 ---
