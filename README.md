@@ -5,7 +5,7 @@
 **Data Analyst | Data Scientist | Software Developer**
 
 <div style="margin: 20px 0;">
-  <a href="https://aristo-portfolio-vert.vercel.app/">
+  <a href="https://aristoayako.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
   </a>
   <a href="https://www.linkedin.com/in/aristo-ayako">
